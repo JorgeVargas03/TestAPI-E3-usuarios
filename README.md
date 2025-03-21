@@ -205,4 +205,4 @@ La API ahora estará disponible en el puerto especificado.
 
 ## Autor
 
-- Jorge Vargas -
+- Jorge Vargas
